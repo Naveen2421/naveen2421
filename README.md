@@ -1,97 +1,50 @@
-# Hi, I'm Naveen Kumar 👋
+# Hi, I'm KBN Naveen Kumar 👋
 
-### Data Analyst | SQL | Power BI | Python | Machine Learning
+### Data Analyst | SQL | Python | Power BI | AI/ML
 
-I'm a Computer Science Engineering graduate with professional experience at Amazon Web Services (AWS), working with machine-learning data workflows, data processing, and data quality.
+I'm a technology professional with experience at Amazon Web Services (AWS), interested in transforming raw data into actionable business insights and building data-driven solutions.
 
-I'm passionate about transforming raw data into meaningful insights using SQL, Python, Power BI, and data analytics.
-
-- 💼 Previously worked as a Machine Learning Data Associate at AWS
-- 📊 Interested in Data Analytics and Business Intelligence
-- 🗄️ Practicing SQL joins, subqueries, CTEs, and window functions
-- 🐍 Using Python for data processing and analysis
-- 📈 Building skills in Power BI dashboards and data visualization
-- 🤖 Familiar with Machine Learning and Generative AI workflows
-- 🎯 Career focus: Data Analyst, SQL Developer, and BI Analyst
-
----
+- 🔍 Interested in Data Analytics, SQL Development, and AI/ML
+- 🐍 Working with Python, SQL, and data analysis
+- 📊 Building interactive dashboards using Power BI
+- ☁️ Exploring AWS, Generative AI, and Large Language Models
+- 🚀 Developing end-to-end projects to solve real-world business problems
 
 ## 🛠️ Technical Skills
 
-**Data Analytics:** Power BI, Excel, VBA, EDA, Data Cleaning, Data Visualization
+- **Programming:** Python, Java, SQL
+- **Data Analytics:** Pandas, NumPy, Exploratory Data Analysis, Data Cleaning
+- **Visualization:** Power BI, Matplotlib
+- **Databases:** MySQL, DBMS
+- **Cloud & AI:** AWS, Amazon Bedrock, Amazon SageMaker
+- **Tools:** Git, GitHub, Jupyter Notebook, Excel
 
-**SQL & Databases:** MySQL, Joins, Subqueries, CTEs, Aggregations, Window Functions, Database Design
+## 📌 Featured Project
 
-**Programming:** Python, Java, JavaScript, HTML, CSS
+### 🛒 E-Commerce Sales & Performance Analytics
 
-**Machine Learning & AI:** AWS Bedrock, Amazon SageMaker, Ground Truth, Data Preprocessing, Model Evaluation
+An end-to-end analytics project using the Brazilian E-Commerce Public Dataset by Olist.
 
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code, AWS
+- Analyzed e-commerce orders, sales, products, payments, reviews, and delivery performance.
+- Used MySQL for data analysis and business queries.
+- Used Python for data quality checks and exploratory analysis.
+- Built Power BI dashboards for sales performance, customer reviews, and delivery insights.
 
----
+**Tools:** MySQL, Python, Pandas, Power BI
 
-## 🚀 Featured Projects
+## 🏆 Professional Experience
 
-### 💰 Insurance Cost Prediction
-Analyzed insurance data and explored machine-learning techniques to predict insurance expenses.
+**Machine Learning Data Associate — Amazon Web Services (AWS)**
 
-**Technologies:** Python, Pandas, Machine Learning
-
-### 🧬 Leukemia Detection Using Machine Learning
-Explored image processing and classification techniques for leukemia-related image analysis.
-
-**Technologies:** Python, OpenCV, PIL, K-Means, CNN, Flask
-
-### ☁️ SageMaster Pro
-Worked on extending data annotation workflows using Amazon SageMaker Ground Truth.
-
-**Technologies:** Python, AWS SageMaker Ground Truth
-
-### 🏥 NammaHealth
-A healthcare application project designed to support digital healthcare workflows.
-
-**Technologies:** Flutter, Dart, Python, FastAPI
-
-*Project repository links can be added when the code is uploaded to GitHub.*
-
----
-
-## 💼 Professional Experience
-
-### Machine Learning Data Associate — Amazon Web Services (AWS)
-**November 2024 – March 2026**
-
-- Supported machine-learning data workflows and data quality processes.
-- Worked on data annotation, preprocessing, and validation.
-- Contributed to AI/ML data evaluation activities.
-- Received **three Quarterly Best Performer awards**.
-
----
+- Worked with machine learning data workflows, data quality, and evaluation processes.
+- Gained experience with data preparation and annotation, along with ML and GenAI-related workflows.
 
 ## 🎓 Education
 
-**Computer Science Engineering — B.E./B.Tech**  
-Dr. T. Thimmaiah Institute of Technology | 2024
-
-**Additional Learning**
-- Java Full Stack — JSpiders
-- Google Data Analytics — Coursera
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveen2421&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen2421&layout=compact&theme=tokyonight&hide_border=true)
-
----
+**B.E. in Computer Science and Engineering — 2024**
 
 ## 🤝 Connect With Me
 
-- 💻 GitHub: [naveen2421](https://github.com/naveen2421)
-- 💼 LinkedIn: linkedin.com/naveen-kumar
+- **GitHub:** [View my repositories](https://github.com/)
 
----
-
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile! ⭐
